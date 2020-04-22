@@ -1,0 +1,5 @@
+C:\Users\Serafima Foxy\Desktop\Task3 HW12\RPN\RPN\bin\Debug\RPN.exe.config
+C:\Users\Serafima Foxy\Desktop\Task3 HW12\RPN\RPN\bin\Debug\RPN.exe
+C:\Users\Serafima Foxy\Desktop\Task3 HW12\RPN\RPN\bin\Debug\RPN.pdb
+C:\Users\Serafima Foxy\Desktop\Task3 HW12\RPN\RPN\obj\Debug\RPN.exe
+C:\Users\Serafima Foxy\Desktop\Task3 HW12\RPN\RPN\obj\Debug\RPN.pdb
